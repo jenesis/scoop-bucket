@@ -7,7 +7,7 @@
 2. Add this bucket to scoop:
 
 ```
-scoop bucket add raphw https://github.com/raphw/scoop-bucket.git
+scoop bucket add jenesis https://github.com/jenesis/scoop-bucket.git
 ```
 
 3. Install tools via `scoop install`:
